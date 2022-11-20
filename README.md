@@ -20,7 +20,7 @@ This setup comes with:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/BoilingSoup/lemp-dev-containers.git Docker-Lemp
+git clone https://github.com/dockfiles/PHP-MYSQL-Nginx-Composer.git Docker-Lemp
 ```
 
 cd into the new directory
