@@ -58,14 +58,14 @@ Some default credentials are set in `docker-compose.yml`
 
 # Running Composer Commands
 
-To run composer commands, prefix the command with `docker compose`
+To run composer commands, prefix the command with `docker compose run`
 
 Examples:
 
 ```bash
-docker compose composer require nesbot/carbon
+docker compose run composer require nesbot/carbon
 ```
 
 ```bash
-docker compose composer update
+docker compose run composer update
 ```
